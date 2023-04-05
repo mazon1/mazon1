@@ -1,4 +1,9 @@
 ### Hi there 👋
+<p align="center">
+<a href="https://github.com/mazon1">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Uchenna+Mgbaja;Machine+Learning+Engineer+%7C+Instructor+Norquest+College+%7C+Project+Manager;AI+%7C+ML+Researcher+%7C+MLOPs" alt="Typing SVG" />
+</a>
+<br/>
 
 - 🔭 I’m currently working on training & developing new Machine Learning Analysts for the Industry.
 - 🌱 I’m currently learning MLOPs and deploying Machine Learning Projects at scale.
