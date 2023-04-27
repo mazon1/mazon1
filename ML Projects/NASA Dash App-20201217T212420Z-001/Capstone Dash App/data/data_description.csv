@@ -1,0 +1,30 @@
+Feature Code,Name (units)
+unit_number,Motor Identification
+time_in_cycles,Cycle Number
+Altitud,Altitud Test (Thousand ft)
+Mach Number,Mach number
+TRA,Throttle resolver angle (Degrees)
+T2,Total temperature at fan inlet (Rº)
+T24,Total temperature at LPC outlet (Rº)
+T30,Total temperature at HPC outlet  (Rº)
+T50,Total temperature at LPT outlet (Rº)
+P2,Pressure at fan inlet  (psia)
+P15,Total pressure in by-pass duct (psia)
+P30,Total pressure at HPC outlet (psia)
+Nf,Physical fan speed (rpm)
+Nc,Physical core speed (rpm)
+epr,Engine pressure ratio (P50/P2)
+Ps30,Static pressure at HPC outlet (psi)
+phi,Ratio of fuel flow to Ps30 (pps/psi)
+NRf,Corrected fan speed (rpm)
+NRc,Corrected core speed (rpm)
+BPR,Bypass ratio
+farB,Burner fuel-air ratio
+htBleed,Bleed enthalpy
+Nf_dmd,Demanded fan speed (rpm)
+PCNfR_dmd,Demanded corrected fan speed (rpm)
+W31,HPT coolant bleed (lbm/s)
+W32,LPT coolant bleed (lbm/s)
+condition,Set Of Experiment
+max_cycles,Number of Max Cycles Before Failure
+target,Remaining Useful Life (RUL)
