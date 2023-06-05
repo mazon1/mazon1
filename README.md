@@ -6,7 +6,7 @@
 <br/>
 
 - 🔭 I’m currently training & developing new Machine Learning Analysts for the Industry.
-- 🌱 I’m currently working on MLOPs and deploying Machine Learning Projects at scale.
+- 🌱 I’m currently working on MLOPs and deploying Machine Learning Models at scale.
 - 👯 I’m looking to collaborate on research projects in Machine Learning.
 - ⚡ Fun fact: I wear many hats. I have a diverse educational background and career. 
 
